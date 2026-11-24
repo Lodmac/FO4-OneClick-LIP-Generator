@@ -16,5 +16,5 @@ A lightweight, standalone one-click `.lip` lip-sync generator for **Fallout 4** 
 
 ## Credits
 - Created by **Lodmac**
-- Powered by [FaceFXWrapper]([https://github.com](https://github.com/Nukem9/FaceFXWrapper)) by **Nukem9** (MIT License)
+- Powered by [FaceFXWrapper.exe](https://github.com/Nukem9/FaceFXWrapper) by **Nukem9** (MIT License)
  
