@@ -2,7 +2,7 @@
 
 A lightweight, standalone one-click `.lip` lip-sync generator for **Fallout 4** modders.
 
-- **Download on Nexus Mods:** https://www.nexusmods.com/profile/lodmac
+- **Download on Nexus Mods:** [https://www.nexusmods.com/profile/lodmac](https://www.nexusmods.com/fallout4/mods/111820)
 
 ## How It Works
 - Automatically creates an `Audio` folder next to the executable.
